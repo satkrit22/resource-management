@@ -1,0 +1,17 @@
+Organization Resource Management System
+
+A website to help an organization manage its internal resources (rooms, equipment, vehicles).
+
+Key Features
+
+Admin dashboard
+Add/manage resources (projectors, laptops, meeting rooms, vehicles, etc.)
+Booking system with calendar view
+Approvals workflow
+Usage reports & analytics
+Email/SMS notifications
+Why resource management
+Demonstrates database design
+Shows CRUD operations
+Involves authentication, scheduling, and UI/UX
+Can be used by schools, offices, or NGOs
